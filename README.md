@@ -9,7 +9,7 @@ MODGAMES AMPR LZ4 es una herramienta de escritorio para **preparar, analizar, em
 
 El proyecto está orientado a un flujo de trabajo reproducible en Windows, manteniendo separados el análisis del contenido, la generación del perfil y la construcción de los packs LZ4.
 
-> **Importante:** v3.46 es la rama estable de referencia del flujo LZ4. Las funciones experimentales de análisis automático desarrolladas después de v3.46 no forman parte de esta versión.
+> **Importante:** v1.0 es la rama estable de referencia del flujo LZ4. Las funciones experimentales de análisis automático desarrolladas después de v1.0 no forman parte de esta versión.
 
 ---
 
